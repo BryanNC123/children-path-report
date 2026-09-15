@@ -193,6 +193,30 @@ Se presentan, se pide consentimiento para entrevistar al participante y se comie
 
 ### **2.2.2. Interview Recording**
  
+#### Segmento #1: Conductores Independientes
+
+
+#### Segmento #2: Empresas Dedicadas al Transporte Escolar
+
+
+#### Segmento #3: Padres de Familia
+
+**Entrevista 1: Pamela Paredes**
+
+<center>
+
+![Entrevista 1 Seg3](../assets/chapter-2/img/interviews/entrevista1-s3.png)
+
+</center>
+
+- **Nombre y Apellidos:** Pamela Paredes
+- **Edad:** 41 años
+- **Ocupación:** Ama de casa, madre de familia
+- **Tiempo:** 0:01 - 7:19
+- **Resumen:** Pamela, una madre de 41 años residente de Santa Anita, organiza el transporte escolar de su hijo de 11 años de manera empírica mediante horarios fijos y coordinación directa por WhatsApp con el conductor, apoyándose también en Yape, Plin y la web del colegio para su rutina diaria. Aunque confía en el servicio, le estresan el tráfico del distrito, la imprudencia vial y la falta de información ante imprevistos o choques, reconociendo además el riesgo que supone que el chofer se distraiga con el celular. Por ello, estaría dispuesta a pagar costos mensuales adicionales por una aplicación que le brinde rastreo GPS en tiempo real para optimizar sus mañanas, notifique el abordaje y llegada del niño al colegio, y garantice que los documentos o papeles del conductor estén al día.
+
+- **Link del video:** [Link entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315640_upc_edu_pe/IQByRcYkGKmXR5_QxX7cH0KsAd21-ugn5BaDU6KB2TUaTQg) 
+
 ### **2.2.3. Interview Analysis**
 
 ## **2.3. Needfinding**
