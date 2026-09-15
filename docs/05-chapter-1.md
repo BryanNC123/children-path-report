@@ -78,18 +78,18 @@ Convertirnos en la plataforma líder y referente de seguridad en el transporte e
     </tr>
            <tr>
       <td width="30%" align="center" valign="middle">
-        <img src="../assets/chapter-1/img/luis-huaco.png" alt="Foto de Luis Huaco" width="180" style="border-radius: 8px;">
+        <img src="../assets/chapter-1/img/foto-Brandon.jpg" alt="Foto de Brandon Soto" width="180" style="border-radius: 8px;">
         <br>
         <i></i>
       </td>
       <td width="70%" valign="top" style="padding-left: 20px;">
-        <h3>Luis Alonso Huaco Oliva</h3>
-        <p><b>Codigo de Estudiante: u202417743</b> </p>
-        <p><b>Age: 24</b> </p>
+        <h3>Brandon Wilder Soto Palacios</h3>
+        <p><b>Codigo de Estudiante: u202315640</b> </p>
+        <p><b>Age: 21</b> </p>
         <p><b>Especialidad: Ingeniería de Software</b> </p>
         <br>
 <p><b>Sobre mí:</b></p>
-<p>Me apasiona aprender y disfruto adquirir nuevos conocimientos. Tengo conocimientos de HTML y lógica de programación, y actualmente curso las asignaturas de Aplicaciones Web. Me considero una persona que busca aprender las cosas de manera adecuada para poder aplicarlas en diferentes contextos y evitar limitar el conocimiento a un solo tema.</p>
+<p>Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Tengo intereses en la tecnología y su constante evolución. Tengo conocimientos de programación en lenguajes como C++, Python, JavaScript, HTML y CSS. Soy un poco reservado, pero con muchas de ganas de aprender nuevas cosas.</p>
     </tr>
       <tr>
       <td width="30%" align="center" valign="middle">
