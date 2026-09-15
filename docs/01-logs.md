@@ -78,16 +78,16 @@
   <!-- ROW 2.3 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.5
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      15/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Adjuntar entrevistas y respectivo analisis
     </td>
   </tr>
   <!-- ROW 2.4 -->
