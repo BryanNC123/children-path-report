@@ -59,7 +59,39 @@ Se presentan, se pide consentimiento para entrevistar al participante y se comie
 11. ¿Qué característica de la aplicación sería la más importante para usted para sentirse tranquilo al confiar el transporte de su hijo a un conductor registrado en nuestra plataforma?
 
 ### **2.2.2. Interview Recording**
- 
+
+* **Entrevista 1:**
+  * **Entrevistado:** Gabriela
+  * **Segmento:** Padre de familia
+  * **Duración:** [Duración]
+  * **Enlace a la grabación:** [Ver entrevista 1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQD1AXwvDziBQJNjfqVNiPQWAeYMA26BAQOBC1tyKe_D9nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VWo0MB)
+
+* **Entrevista 2:**
+  * **Entrevistado:** Alejandro
+  * **Segmento:** Padre de familia
+  * **Duración:** [Duración]
+  * **Enlace a la grabación:** [Ver entrevista 2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQCneF6uJQneSbuVfMMPEvfKAdcXTo1sHeUy-SGF28JiP3g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f5sdCh)
+
+* **Entrevista 3:**
+  * **Entrevistado:** Eduardo
+  * **Segmento:** Padre de familia
+  * **Duración:** [Duración]
+  * **Enlace a la grabación:** [Ver entrevista 3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202422589_upc_edu_pe/IQDjMXK3n4smQaWYxZ2qTvKkAShiPN2nP5lMf1iIen8ONyA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=HlhpOR)
+
+### 2.2.3. Interview Analysis
+
+1. Perfil del Usuario
+El 100% son adultos de 32 a 38 años con trabajo fijo por las mañanas.
+Niños a cargo: El 100% cuida a menores pequeños que no pueden viajar solos (33.3% nido de 4 años, 66.7% primaria de 6 y 8 años).
+Uso del celular: El 100% usa WhatsApp todo el día, apps con mapas como google maps o waze.
+
+2. Principales Problemas y Molestias 
+Incertidumbre por demoras: El 100% sufrió retrasos de más de 30 minutos por fallas mecánicas o tráfico sin recibir aviso a tiempo, teniendo que pagar un taxi de emergencia para no llegar tarde.
+Peligro del chofer al volante: El 100% considera peligroso llamar o escribir al conductor mientras maneja. El 33.3% (Gabriela) exige que el chofer solo toque el teléfono si el auto está 100% estacionado.
+El 100% baja a la calle a esperar de 5 a 10 minutos antes, pasando frío e incomodidad con los niños en la vereda por no saber exactamente cuándo llega la van.
+Contacto frecuente: El 100% termina llamando o escribiendo de 2 a 3 veces por semana cuando la movilidad se pasa de los 15 minutos de tardanza.
+
+
 ### **2.2.3. Interview Analysis**
 
 ## **2.3. Needfinding**
