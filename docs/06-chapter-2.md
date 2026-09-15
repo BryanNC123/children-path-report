@@ -97,6 +97,8 @@ Contacto frecuente: El 100% termina llamando o escribiendo de 2 a 3 veces por se
 ## **2.3. Needfinding**
 
 ### **2.3.1. User Persona**
+<img width="1050" height="1438" alt="Gabriela Morales" src="https://github.com/user-attachments/assets/261b87bb-a3d8-4d92-bdeb-2eb45be53822" />
+
 
 ### **2.3.2. User Task Matrix**
 
