@@ -1,4 +1,4 @@
-﻿# **Chapter I: Introduction**
+﻿# **Capítulo I: Introducción**
 ## **1.1. Startup Profile**
 ### **1.1.1. Descripción de la Startup**
 
@@ -164,8 +164,6 @@ De esta manera, pretendemos mejorar la organización del servicio y brindar mayo
 
 #### **1.2.2.2. Lean UX Assumptions**
 
-#### **1.2.2.2. Suposiciones de Lean UX**
-
 **Resultados de Negocio**
 * Establecer a Creatividad como la herramienta tecnológica estándar para el transporte escolar en Lima Metropolitana.
 * Aumentar la retención de conductores afiliados demostrando ahorros en tiempo y combustible.
@@ -228,7 +226,7 @@ El Lean UX Canvas de Children Path identifica claramente los principales problem
 
 Con base en esta propuesta, el objetivo es mejorar la organización del servicio, reducir distracciones al volante y brindar mayor tranquilidad a las familias. Además, se considera viable un modelo de ingresos por suscripción a largo plazo. El plan es desarrollar un MVP enfocado en funcionalidades clave como la ubicación en tiempo real y las alertas de proximidad, que se probará en una ruta real para validar su utilidad y verificar si realmente mejora la experiencia tanto de conductores como de padres.
 
-## **1.3. Target Segments**
+## **1.3. Segmentos objetivo**
 ### Segmento #1: Conductores Independientes
 
 - **Aspectos demográficos**
