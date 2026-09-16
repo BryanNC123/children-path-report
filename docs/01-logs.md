@@ -93,16 +93,16 @@
   <!-- ROW 2.4 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.6
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      13/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Huaco Oliva, Luis Alonso
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Continuando con el capitulo 2 , hasta User Task Matrix.
     </td>
   </tr>
   <!-- ROW 2.5 -->
