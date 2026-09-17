@@ -108,16 +108,16 @@
   <!-- ROW 2.5 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.7
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      16/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Agregando secciones de Organization Systems
     </td>
   </tr>
   <!-- ROW 2.6 -->
