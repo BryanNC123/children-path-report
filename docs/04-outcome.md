@@ -85,7 +85,7 @@ Criterio: Habilidad de comunicarse efectivamente con una variedad de audiencias.
         ------------------------------------
       <br><br>
       <b>
-        XXXXXXXX, XXXXXXXX
+        Soto Palacios, Brandon Wilder 
       </b>
       <br><br>
       <b><i>
@@ -195,7 +195,7 @@ Criterio: Habilidad de comunicarse efectivamente con una variedad de audiencias.
         ------------------------------------
       <br><br>
       <b>
-        XXXXXXXX, XXXXXXXX
+        Soto Palacios, Brandon Wilder
       </b>
       <br><br>
       <b><i>

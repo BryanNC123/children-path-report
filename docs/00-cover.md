@@ -60,8 +60,8 @@
         <td style="text-align: center; padding: 8px;">XXXXXXX</td>
       </tr>
       <tr>
-        <td style="padding: 8px;">XXXXXXX</td>
-        <td style="text-align: center; padding: 8px;">XXXXXXX</td>
+        <td style="padding: 8px;">U202315640</td>
+        <td style="text-align: center; padding: 8px;">Soto Palacios, Brandon Wilder</td>
       </tr>
       <tr>
         <td style="padding: 8px;">XXXXXXX</td>
