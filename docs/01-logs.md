@@ -78,46 +78,46 @@
   <!-- ROW 2.3 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.5
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      15/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Adjuntar entrevistas y respectivo analisis
     </td>
   </tr>
   <!-- ROW 2.4 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.6
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      13/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Huaco Oliva, Luis Alonso
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Continuando con el capitulo 2 , hasta User Task Matrix.
     </td>
   </tr>
   <!-- ROW 2.5 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.7
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      16/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Agregando secciones de Organization Systems
     </td>
   </tr>
   <!-- ROW 2.6 -->
