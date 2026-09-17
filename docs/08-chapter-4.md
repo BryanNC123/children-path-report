@@ -51,10 +51,41 @@ A continuación, se especifican las etiquetas seleccionadas para representar los
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+En esta sección se definen las etiquetas de optimización para motores de búsqueda (SEO) y metadatos que estructuran las principales vistas de la plataforma **Children Path**. Estos elementos garantizan una correcta indexación del sitio público, facilitan el posicionamiento orgánico en búsquedas locales y aseguran una experiencia de usuario consistente tanto en el sitio web estático (Landing Page) como en la aplicación web (Web Application).
+
+| Página / Vista | SEO / Meta Tag | Valor asignado | Propósito / Justificación |
+| :--- | :--- | :--- | :--- |
+| **Landing Page (Inicio)** | `<title>` | Children Path \| Monitoreo y Seguridad en Transporte Escolar en Lima | Título principal orientado a búsqueda orgánica de padres y conductores en Lima. |
+| | `description` | Plataforma digital para el seguimiento en tiempo real del transporte escolar en Lima. Alertas automáticas de proximidad, registro digital de asistencia y rutas seguras. | Resumen conciso que aparece en los resultados del motor de búsqueda (SERP). |
+| | `keywords` | transporte escolar lima, movilidad escolar segura, rastreo gps escolar, monitoreo escolar tiempo real, children path, alertas de proximidad | Palabras clave alineadas con la problemática del transporte y el mercado local. |
+| | `author` | Creatividad | Startup responsable del desarrollo y gestión de la plataforma. |
+| | `robots` | index, follow | Instrucción para que los motores de búsqueda indexen y rastreen los enlaces de la landing page. |
+| **Landing Page (Planes y Precios)** | `<title>` | Planes de Suscripción \| Children Path | Identificación de la página comercial de tarifas para colegios y conductores. |
+| | `description` | Conoce los planes y tarifas de Children Path para conductores independientes y empresas de transporte escolar. Optimiza rutas y automatiza la asistencia. | Explica la oferta de valor económica y el modelo SaaS de la plataforma. |
+| | `keywords` | planes transporte escolar, precio software movilidad escolar, suscripcion gps escolar, gestion de flotas escolares lima | Términos orientados a la conversión de conductores y directores de empresas. |
+| | `author` | Creatividad | Identificación de la organización creadora. |
+| | `robots` | index, follow | Permite la visibilidad e indexación de la oferta comercial. |
+| **Web Application (Iniciar Sesión / Registro)** | `<title>` | Acceso al Sistema \| Children Path | Título funcional para la pantalla de autenticación general. |
+| | `description` | Inicia sesión en Children Path para gestionar rutas de transporte escolar, visualizar la flota o seguir el recorrido de tus hijos en tiempo real. | Descripción orientada a la acción del usuario registrado. |
+| | `keywords` | login children path, iniciar sesion movilidad escolar, acceso portal padres, portal conductores transporte | Búsquedas directas de usuarios que intentan ingresar a su cuenta. |
+| | `author` | Creatividad | Identificación del equipo de desarrollo. |
+| | `robots` | noindex, nofollow | Evita la indexación pública de formularios de autenticación por motivos de seguridad. |
+| **Web Application (Dashboard de Flota - Empresa)** | `<title>` | Panel de Monitoreo de Flota \| Children Path | Identificador claro de la vista operativa de supervisión vehicular (EP04). |
+| | `description` | Panel centralizado para empresas de transporte: supervisión de unidades activas, alertas de desvío y reportes de puntualidad en tiempo real. | Describe la vista de control administrativo de flota. |
+| | `keywords` | monitoreo flota escolar, control conductores, alertas desvio ruta, reporte asistencia escolar | Metadatos internos de contexto operativo. |
+| | `author` | Creatividad | Identificación de la entidad creadora. |
+| | `robots` | noindex, nofollow | Protege la privacidad de los datos operativos y rutas de las unidades. |
+| **Web Application (Seguimiento Parental - Padres)** | `<title>` | Rastreo en Vivo de la Movilidad \| Children Path | Título enfocado en la tranquilidad y supervisión en tiempo real del menor (EP06). |
+| | `description` | Consulta la ubicación exacta del vehículo escolar de tu hijo, estado de abordaje y hora estimada de llegada. | Explica la funcionalidad de acompañamiento digital para padres de familia. |
+| | `keywords` | ubicacion transporte escolar, seguimiento en vivo hijo, confirmacion abordaje colegio | Metadatos de contexto para la vista familiar. |
+| | `author` | Creatividad | Identificación del equipo técnico. |
+| | `robots` | noindex, nofollow | Resguarda de forma estricta la privacidad y ubicación en tiempo real de los estudiantes. |
 
 ### 4.2.4. Searching Systems
 
 ### 4.2.5. Navigation Systems
+
+
 
 ## **4.3. Landing Page UI Design**
 
