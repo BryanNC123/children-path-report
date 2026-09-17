@@ -24,6 +24,31 @@ Children Path combina diferentes sistemas y esquemas de organización de acuerdo
 
 ### 4.2.2. Labeling Systems
 
+En Children Path, el sistema de etiquetado define la manera en que se representan los datos, funcionalidades y accesos dentro de la plataforma. Se utiliza el menor número posible de palabras por etiqueta para simplificar la interfaz, evitar confusiones operativas y minimizar la carga cognitiva del conductor mientras opera el vehículo, así como para brindar claridad inmediata a padres y administradores.
+
+A continuación, se especifican las etiquetas seleccionadas para representar los conjuntos de información de la plataforma y sus respectivas asociaciones:
+
+| Etiqueta | Conjunto de información representado | Asociación y contexto en Children Path |
+| :--- | :--- | :--- |
+| **Inicio** | Pantalla principal pública | Acceso a la Landing Page con la propuesta de valor y visión general del servicio. |
+| **Beneficios** | Ventajas competitivas del producto | Información dirigida a conductores, colegios y familias sobre reducción de tiempos y seguridad. |
+| **Planes** | Modelo de precios y suscripción | Tarifas del servicio SaaS según la cantidad de estudiantes y vehículos registrados. |
+| **Ingresar** | Autenticación de usuarios | Formulario de inicio de sesión para conductores, administradores de empresa y padres. |
+| **Registro** | Creación de cuentas nuevas | Formulario de alta para nuevos conductores independientes, colegios o padres de familia. |
+| **Panel** | Vista general del sistema | Tablero principal con métricas resumidas para empresas o estado de viaje para padres (EP04, EP06). |
+| **Flota** | Monitoreo vehicular global | Mapa en tiempo real con todas las unidades activas y conductores de la empresa (US07, US35). |
+| **Ruta** | Secuencia de paradas del día | Vista del conductor con el itinerario de recojo, direcciones y tiempos estimados (US03, US19). |
+| **Estudiantes** | Directorio de alumnos | Lista de estudiantes asignados al conductor, organizados en general o por cada parada (US12, US13). |
+| **Abordó** | Marcado de asistencia positiva | Acción de un toque para registrar la subida del menor al vehículo en su parada (US01, US14). |
+| **Ausente** | Marcado de inasistencia | Acción directa para indicar que el estudiante no se presentó, omitiendo la parada (US02, US15). |
+| **Alerta** | Notificación de proximidad | Mensaje automático al padre indicando que el vehículo está a 5 minutos o 500 metros (US54). |
+| **Incidencia** | Reporte de eventos imprevistos | Registro rápido de contingencias en ruta como tráfico severo, accidentes o fallas mecánicas (US05, US26). |
+| **Desvío** | Detección de anomalías en ruta | Aviso visual automático cuando una unidad se aparta más de 500 metros del trayecto programado (US08, US39). |
+| **Historial** | Trazabilidad temporal | Registro cronológico de viajes realizados, horarios de llegada e incidencias previas (US09, US32, US41). |
+| **Asistencia** | Consolidado mensual | Reporte exportable en formato digital para la facturación y cobranza del servicio (US10). |
+| **Puntualidad** | Indicadores de desempeño | Métricas porcentuales de llegadas a tiempo por parada, tiempos de espera y velocidad (US11, US44, US51). |
+| **Sin conexión** | Estado del sistema local | Indicador visual de almacenamiento local y sincronización pendiente de datos ante cortes de red móvil (US17, US25, US34).
+
 ### 4.2.3. SEO Tags and Meta Tags
 
 
