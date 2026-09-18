@@ -332,11 +332,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1030" height="970" alt="children path - subscription and payments bounded context" src="https://github.com/user-attachments/assets/6281fd27-7b6d-4497-90fe-b0029797cae3" />
 
 
-- Contexto Delimitado del Dashboard:
+-Dashboard Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/dashboard-bounded-context.png" width="70%" alt="dashboard-bounded-context">
-</p>
+<img width="1056" height="946" alt="Children path dashboard bounded context" src="https://github.com/user-attachments/assets/3f700af0-3c97-4569-983f-c168eef3974c" />
+
 
 - Contexto Delimitado de Gestión de Flota:
 
