@@ -337,11 +337,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1056" height="946" alt="Children path dashboard bounded context" src="https://github.com/user-attachments/assets/3f700af0-3c97-4569-983f-c168eef3974c" />
 
 
-- Contexto Delimitado de Gestión de Flota:
+-Fleet Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/fleet-management-bounded-context.png" width="70%" alt="fleet-management-bounded-context">
-</p>
+<img width="1014" height="985" alt="children path - Fleet Management Bounded Context" src="https://github.com/user-attachments/assets/9f06d6ca-eb2b-487c-a23b-444b57a6c2de" />
+
 
 - Contexto Delimitado de Gestión de Conductores:
 
