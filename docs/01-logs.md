@@ -138,16 +138,16 @@
   <!-- ROW 3.0 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.9
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+       18/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Agregando el capitulo 4 - 4.6 Bounded contexts correspondientes 
     </td>
   </tr>
   <!-- ROW 3.1 -->
