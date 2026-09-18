@@ -353,11 +353,11 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1049" height="953" alt="Children Path- Route Management Bounded Contexxt" src="https://github.com/user-attachments/assets/1ca2aa3a-dded-4596-a1d2-11180446b9f5" />
 
 
-- Contexto Delimitado de Gestión de Estudiantes:
+-Student Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/student-management-bounded-context.png" width="70%" alt="student-management-bounded-context">
-</p>
+<img width="1089" height="917" alt="Children path - student management bounded context" src="https://github.com/user-attachments/assets/93d20e06-210a-4f15-beeb-05640407e188" />
+
+
 
 - Contexto Delimitado de Gestión de Asignaciones:
 
