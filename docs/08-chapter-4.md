@@ -319,95 +319,82 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 ### **4.6.1. Design-Level EventStorming**
 
-- Contexto Delimitado de Gestión de Identidad y Acceso:
+-Identity and Access Management Bounded Context
+<img width="955" height="1046" alt="Children path- IAM bounded context" src="https://github.com/user-attachments/assets/b12107bd-0834-4507-9eaf-d3c55d33bea6" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/identity-access-bounded-context.png" width="70%" alt="identity-access-bounded-context">
-</p>
+-User profile bounded context
 
-- Contexto Delimitado de Perfiles de Usuario:
+<img width="1201" height="832" alt="Children path - user profiles bounded context" src="https://github.com/user-attachments/assets/51f2dfdc-7dab-46c0-8472-16f7f0b39404" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/user-profiles-bounded-context.png" width="70%" alt="user-profiles-bounded-context">
-</p>
 
-- Contexto Delimitado de Suscripciones y Pagos:
+-Subscription and Payments Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/subscription-payments-bounded-context.png" width="70%" alt="subscription-payments-bounded-context">
-</p>
+<img width="1030" height="970" alt="children path - subscription and payments bounded context" src="https://github.com/user-attachments/assets/6281fd27-7b6d-4497-90fe-b0029797cae3" />
 
-- Contexto Delimitado del Dashboard:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/dashboard-bounded-context.png" width="70%" alt="dashboard-bounded-context">
-</p>
+-Dashboard Bounded Context
 
-- Contexto Delimitado de Gestión de Flota:
+<img width="1056" height="946" alt="Children path dashboard bounded context" src="https://github.com/user-attachments/assets/3f700af0-3c97-4569-983f-c168eef3974c" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/fleet-management-bounded-context.png" width="70%" alt="fleet-management-bounded-context">
-</p>
 
-- Contexto Delimitado de Gestión de Conductores:
+-Fleet Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/driver-management-bounded-context.png" width="70%" alt="driver-management-bounded-context">
-</p>
+<img width="1014" height="985" alt="children path - Fleet Management Bounded Context" src="https://github.com/user-attachments/assets/9f06d6ca-eb2b-487c-a23b-444b57a6c2de" />
 
-- Contexto Delimitado de Gestión de Rutas:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/route-management-bounded-context.png" width="70%" alt="route-management-bounded-context">
-</p>
+-Driver Management Bounded Context
 
-- Contexto Delimitado de Gestión de Estudiantes:
+<img width="1065" height="938" alt="Children path - Driver Management Bounded context" src="https://github.com/user-attachments/assets/2e6b8361-3c4e-4b1f-b5b7-daf7f03507be" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/student-management-bounded-context.png" width="70%" alt="student-management-bounded-context">
-</p>
 
-- Contexto Delimitado de Gestión de Asignaciones:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/assignment-management-bounded-context.png" width="70%" alt="assignment-management-bounded-context">
-</p>
+-Route Management Bounded Context
 
-- Contexto Delimitado de Rastreo en Tiempo Real:
+<img width="1049" height="953" alt="Children Path- Route Management Bounded Contexxt" src="https://github.com/user-attachments/assets/1ca2aa3a-dded-4596-a1d2-11180446b9f5" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/real-time-tracking-bounded-context.png" width="70%" alt="real-time-tracking-bounded-context">
-</p>
 
-- Contexto Delimitado de Gestión de Viajes:
+-Student Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/trip-management-bounded-context.png" width="70%" alt="trip-management-bounded-context">
-</p>
+<img width="1089" height="917" alt="Children path - student management bounded context" src="https://github.com/user-attachments/assets/93d20e06-210a-4f15-beeb-05640407e188" />
 
-- Contexto Delimitado de Control de Asistencia:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/attendance-tracking-bounded-context.png" width="70%" alt="attendance-tracking-bounded-context">
-</p>
 
-- Contexto Delimitado de Alertas y Notificaciones:
+-Assignment Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/alerts-notifications-bounded-context.png" width="70%" alt="alerts-notifications-bounded-context">
-</p>
+<img width="1089" height="917" alt="Children Path - assignment manegement bounded context" src="https://github.com/user-attachments/assets/7796dab3-4c50-440a-a2ac-62f387e49ea4" />
 
-- Contexto Delimitado de Gestión de Incidencias:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/incident-management-bounded-context.png" width="70%" alt="incident-management-bounded-context">
-</p>
+-Real-Time Tracking Bounded Contex
 
-- Contexto Delimitado de Analítica y Reportes:
+<img width="1053" height="949" alt="children path - real-time tracking bounded context" src="https://github.com/user-attachments/assets/44447335-85d1-4887-be47-9f18a5578e1b" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/analytics-reports-bounded-context.png" width="70%" alt="analytics-reports-bounded-context">
-</p>
+
+-Trip Management Bounded Context
+
+<img width="1037" height="964" alt="children path- trip management bounded context" src="https://github.com/user-attachments/assets/1619a338-ce52-4aa1-9645-98756c6e9971" />
+
+
+-Attendance Tracking Bounded Context
+
+<img width="1045" height="956" alt="Children path - attendance tracking bounded context" src="https://github.com/user-attachments/assets/cf54b438-aeb4-4395-8c93-ab0c16a0b5dc" />
+
+
+
+
+-Alerts and Notifications Bounded Context
+
+<img width="1038" height="963" alt="children path- Alerts and Notifications Bounded Context" src="https://github.com/user-attachments/assets/3cdd536e-b18d-4561-b71a-976cabbb0bad" />
+
+
+- Incident Management Bounded Context
+
+<img width="1048" height="954" alt="children path-Incident management Bounded Context" src="https://github.com/user-attachments/assets/4697bc10-df29-44a8-9d4e-aefd43d79e3a" />
+
+
+-Analytics and Reports Bounded Context
+
+<img width="1065" height="938" alt="children path- analytics and reports bounded context" src="https://github.com/user-attachments/assets/e1b4bd07-ae0b-4e91-b8e4-b7c2b2939487" />
+
 
 ### **4.6.2. Software Architecture Context Diagram**
 
