@@ -319,11 +319,8 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 ### **4.6.1. Design-Level EventStorming**
 
-- Contexto Delimitado de Gestión de Identidad y Acceso:
-
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/identity-access-bounded-context.png" width="70%" alt="identity-access-bounded-context">
-</p>
+-Identity and Access Management Bounded Context
+<img width="955" height="1046" alt="Children path- IAM bounded context" src="https://github.com/user-attachments/assets/b12107bd-0834-4507-9eaf-d3c55d33bea6" />
 
 - Contexto Delimitado de Perfiles de Usuario:
 
