@@ -148,7 +148,123 @@ El wireframe de nuestra Landing Page se enfoca en una estructura de "Confianza P
 * **Hero Section:** Diseñada con un titular de alto impacto a la izquierda y un espacio dedicado para la identidad visual de **Children Path** (el escudo) a la derecha.
 * **Sección de Métricas:** Ubicada estratégicamente debajo del hero para validar la fiabilidad del sistema con datos reales (segmentos, flujos y experiencia de confianza).
 
-![Children Path Wireframe](../assets/chapter-4/ChildrenPath_Wireframe.png)
+Desktop Landing Page:
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/Landing_Wireframe1.png" style="max-width:100%; max-height:950px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/Landing_Wireframe3.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/Landing_Wireframe4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/Landing_Wireframe5.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+**Elementos de Diseño**
+- Lógica de Tarjetas (Cards UI): Se emplean contenedores de bordes redondeados para agrupar información en bloques digeribles (métricas, testimonios, planes, Misión/Visión y el contenedor central en Términos y Condiciones).
+- Botones Píldora y Jerarquía Visual: Los botones principales ("Ingresar", "Solicitar demo") adoptan la forma de píldora (border-radius: 50px), marcando contraste de importancia frente a botones secundarios con bordes ("Ver planes", "Contactar ventas").
+- Micro-componentes y Placeholders: Uso de componentes estandarizados como etiquetas/badges para filtros rápidos, acordeones (+ / - / chevrons), inputs con ícono de visibilidad de contraseña (ojo) y tarjetas de precarga (image placeholders con montaña/sol).
+- Tipografía Escalada: Marcado contraste de pesos y tamaños tipográficos; títulos H1/H2 en negrita de gran formato para captar atención y texto base (body) ligero para facilitar la lectura.
+
+**Heurísticas de Nielsen**
+- Visibilidad del estado del sistema (H1): El widget de "Recorrido activo" en la página principal muestra el estado en vivo (ubicación, tiempo estimado y alertas), mientras que el login indica claramente el perfil seleccionado (Padre, Conductor, Administrador).
+- Relación entre el sistema y el mundo real (H2): Vocabulario empático y cotidiano ("Sigue a tu hijo", "Tranquilidad", "Rutas seguras"), evitando modismos informáticos o jerga técnica.
+- Consistencia y estándares (H4): La cabecera (Header) y el pie de página (Footer) se mantienen idénticos en las 5 vistas, conservando la ubicación del logo, el menú y el botón de acceso.
+- Prevención de errores (H5): En el formulario de Iniciar sesión, la opción de mostrar/ocultar contraseña permite verificar datos antes de enviar. En el formulario de demo, se incluyen listas desplegables para guiar la selección del rol.
+- Reconocimiento antes que recuerdo (H6): Las opciones del menú superior permanecen siempre visibles, permitiendo cambiar de sección sin memorizar la ruta previa.
+
+**Arquitectura de la Información**
+- Estructura Jerárquica Progresiva: La Landing Page principal ordena el contenido de forma lógica: Propuesta de valor/Hero $\rightarrow$ Validación social (Métricas) $\rightarrow$ Beneficios $\rightarrow$ Funcionamiento $\rightarrow$ Precios $\rightarrow$ Testimonios $\rightarrow$ FAQ $\rightarrow$ Contacto.
+- Segmentación por Audiencia/Rol: El contenido se organiza explícitamente en tres columnas o pestañas (Familias/Padres, Conductores, Colegios/Empresas) en las secciones de beneficios, planes y credenciales de acceso.
+- Escatabilidad de Texto Denso: En la pantalla de Terms and conditions, el texto extenso se estructura mediante una lista numerada, títulos en negrita y viñetas para evitar muros de texto unificados.
+- Navegación Global Consistente: La presencia uniforme del menú superior y pie de página garantiza accesibilidad directa a cualquier sección clave desde cualquier pantalla.
+
+**Diseño Inclusivo**
+- Objetivos Táctiles Amplios (Touch Targets): Los botones tipo píldora, inputs de texto y selectores tienen alturas superiores a $48\text{px}$, facilitando la interacción en pantallas táctiles o para usuarios con menor precisión motriz.
+- Alternativas de Contacto Flexibles: En la pantalla de contacto se ofrecen múltiples canales para adaptarse a distintas capacidades o preferencias comunicativas (formulario escrito, llamada telefónica y chat directo vía WhatsApp).
+- Estructuración para Lectores de Pantalla: La clara separación en bloques (encabezados, listas con checkmarks y tarjetas) facilita la lectura con tecnologías de asistencia visual.
+- Sencillez de Comprensión: Uso de íconos de cotejo (✓) acompañando a cada beneficio y viñetas cortas (chunking) para reducir la carga cognitiva al procesar la información.
+
+
+Mobile Web Wireframes
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe1.png" style="max-width:100%; max-height:10000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe3.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe4.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe5.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe6.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+**Elementos de Diseño (Mobile UI)**
+- Layout de Columna Única (Single-Column Stacking): Rediseño adaptativo donde las cuadrículas multicolumna de escritorio (métricas, testimonios, planes de suscripción) se reordenan en un flujo vertical continuo ($1 \times N$), facilitando la navegación con una sola mano.
+- Navegación Off-Canvas (Menú Hamburguesa): Sustitución de la barra de menú horizontal por un ícono de tres líneas en la cabecera, el cual despliega un menú lateral translúcido con los accesos principales y un botón de cierre explícito (W_Landing_Wireframe2.png).
+- Componentes Táctiles (Mobile Cards & Chips): Tarjetas de esquinas redondeadas ajustadas al ancho de pantalla y etiquetas (chips/badges) apiladas para filtrado directo de públicos (Familias, Conductores, Colegios).
+- Campos e Inputs Verticales: Formulario de contacto y pantalla de Inicia sesión con campos de entrada apilados y botones principales tipo píldora (border-radius: 50px) adaptados al ancho completo.
+
+**Heurísticas de Nielsen**
+- Visibilidad del estado del sistema (H1): La tarjeta de "Recorrido activo" destaca información en tiempo real (ubicación, hora y velocidad), mientras que el menú off-canvas incluye una capa oscura (overlay) que indica claramente que el usuario está en el modo de navegación.
+- Relación entre el sistema y el mundo real (H2): Empleo de iconografía estándar móvil (menú hamburguesa, 'X' para cerrar modal/desplegable, ícono de ojo para alternar visibilidad de contraseña y flechas descendentes para acordeones).
+- Control y libertad del usuario (H3): Incorporación de un botón de cierre "X" grande en la parte superior del menú desplegable para salir del overlay sin forzar acciones accidentales.
+- Consistencia y estándares (H4): Mantenimiento estricto del Sticky Header (logo a la izquierda, menú a la derecha) y Footer institucional en las 6 vistas móviles
+- Reconocimiento antes que recuerdo (H6): Pestañas de perfil seleccionables (Padre, Conductor, Administrador) en la pantalla de Login para evitar que el usuario deba recordar rutas de acceso separadas.
+
+**Arquitectura de la Información**
+- Jerarquización y Contención (Chunking): Desglose del contenido extenso en bloques compactos; el uso de acordeones desplegables en las preguntas frecuentes (FAQ) evita el desplazamiento (scroll) infinito abrumador.
+- Secuencia de Conversión Lineal: La Landing Page móvil guía la lectura de arriba hacia abajo: Propuesta de valor $\rightarrow$ Estado en vivo $\rightarrow$ Métricas $\rightarrow$ Beneficios $\rightarrow$ Planes $\rightarrow$ Testimonios $\rightarrow$ Formulario.
+- Estructuración de Contenido Denso: En la pantalla de Terms and conditions (W_Landing_Wireframe6.png), los párrafos largos se dividen mediante numerales en negrita y listas con viñetas para acelerar la lectura escaneable en pantallas pequeñas.
+
+**Diseño Inclusivo y Accesibilidad Mobile**
+- Zona del Pulgar (Thumb Zone & Touch Targets): Todos los botones, campos de texto y elementos interactivos tienen una altura táctil adecuada ($\ge 48\text{px}$), facilitando el toque sin presionar elementos adyacentes por error.
+- Carga Cognitiva Reducida: Ocultamiento estratégico de contenido secundario dentro del menú hamburguesa y acordeones para no saturar la memoria de trabajo del usuario en dispositivos móviles.
+- Alternativas Táctiles Directas: En la sección de contacto móvil se integran enlaces de acción rápida a teléfono y WhatsApp para iniciar comunicación en un solo toque.
 
 ### 4.3.2. Landing Page Mockup
 
