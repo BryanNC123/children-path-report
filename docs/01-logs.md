@@ -78,76 +78,76 @@
   <!-- ROW 2.3 -->
   <tr>
     <td style="text-align: center;">
-      0.0.5
+      X.X.X
     </td>
     <td style="text-align: center;">
-      15/09/2026
+      XX/XX/XXXX
     </td>
     <td style="text-align: center;">
-      Pareja Caceres, Diana
+      XXXXXX
     </td>
     <td style="text-align: justify;">
-        Adjuntar entrevistas y respectivo analisis
+        XXXXXX
     </td>
   </tr>
   <!-- ROW 2.4 -->
   <tr>
     <td style="text-align: center;">
-      0.0.6
+      X.X.X
     </td>
     <td style="text-align: center;">
-      13/09/2026
+      XX/XX/XXXX
     </td>
     <td style="text-align: center;">
-      Huaco Oliva, Luis Alonso
+      XXXXXX
     </td>
     <td style="text-align: justify;">
-        Continuando con el capitulo 2 , hasta User Task Matrix.
+        XXXXXX
     </td>
   </tr>
   <!-- ROW 2.5 -->
   <tr>
     <td style="text-align: center;">
-      0.0.7
+      X.X.X
     </td>
     <td style="text-align: center;">
-      16/09/2026
+      XX/XX/XXXX
     </td>
     <td style="text-align: center;">
-      Pareja Caceres, Diana
+      XXXXXX
     </td>
     <td style="text-align: justify;">
-        Agregando secciones de Organization Systems
+        XXXXXX
     </td>
   </tr>
   <!-- ROW 2.6 -->
   <tr>
     <td style="text-align: center;">
-      0.0.8
+      X.X.X
     </td>
     <td style="text-align: center;">
-      18/09/2026
+      XX/XX/XXXX
     </td>
     <td style="text-align: center;">
-      Pareja Caceres, Diana
+      XXXXXX
     </td>
     <td style="text-align: justify;">
-       Agregando el landing page mock-up
+        XXXXXX
     </td>
   </tr>
   <!-- ROW 3.0 -->
   <tr>
     <td style="text-align: center;">
-      0.0.9
+      X.X.X
     </td>
     <td style="text-align: center;">
-       18/09/2026
+      XX/XX/XXXX
     </td>
     <td style="text-align: center;">
-      Pareja Caceres, Diana
+      XXXXXX
     </td>
     <td style="text-align: justify;">
-      Modificar el impact mapping
+        XXXXXX
     </td>
   </tr>
   <!-- ROW 3.1 -->
