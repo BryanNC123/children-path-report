@@ -348,11 +348,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 
 
-- Contexto Delimitado de Gestión de Rutas:
+-Route Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/route-management-bounded-context.png" width="70%" alt="route-management-bounded-context">
-</p>
+<img width="1049" height="953" alt="Children Path- Route Management Bounded Contexxt" src="https://github.com/user-attachments/assets/1ca2aa3a-dded-4596-a1d2-11180446b9f5" />
+
 
 - Contexto Delimitado de Gestión de Estudiantes:
 
