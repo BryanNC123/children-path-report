@@ -381,11 +381,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 
 
-- Contexto Delimitado de Alertas y Notificaciones:
+-Alerts and Notifications Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/alerts-notifications-bounded-context.png" width="70%" alt="alerts-notifications-bounded-context">
-</p>
+<img width="1038" height="963" alt="children path- Alerts and Notifications Bounded Context" src="https://github.com/user-attachments/assets/3cdd536e-b18d-4561-b71a-976cabbb0bad" />
+
 
 - Contexto Delimitado de Gestión de Incidencias:
 
