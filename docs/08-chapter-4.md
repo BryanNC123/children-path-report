@@ -327,11 +327,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1201" height="832" alt="Children path - user profiles bounded context" src="https://github.com/user-attachments/assets/51f2dfdc-7dab-46c0-8472-16f7f0b39404" />
 
 
-- Contexto Delimitado de Suscripciones y Pagos:
+-Subscription and Payments Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/subscription-payments-bounded-context.png" width="70%" alt="subscription-payments-bounded-context">
-</p>
+<img width="1030" height="970" alt="children path - subscription and payments bounded context" src="https://github.com/user-attachments/assets/6281fd27-7b6d-4497-90fe-b0029797cae3" />
+
 
 - Contexto Delimitado del Dashboard:
 
