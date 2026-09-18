@@ -374,11 +374,12 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1037" height="964" alt="children path- trip management bounded context" src="https://github.com/user-attachments/assets/1619a338-ce52-4aa1-9645-98756c6e9971" />
 
 
-- Contexto Delimitado de Control de Asistencia:
+-Attendance Tracking Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/attendance-tracking-bounded-context.png" width="70%" alt="attendance-tracking-bounded-context">
-</p>
+<img width="1045" height="956" alt="Children path - attendance tracking bounded context" src="https://github.com/user-attachments/assets/cf54b438-aeb4-4395-8c93-ab0c16a0b5dc" />
+
+
+
 
 - Contexto Delimitado de Alertas y Notificaciones:
 
