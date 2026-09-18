@@ -926,7 +926,9 @@
 
 ## **3.2. Impact Mapping**
 
-![Impact Mapping](../assets/chapter-3/impact-mapping.jpg)
+<img width="1240" height="12991" alt="Impact map 60" src="https://github.com/user-attachments/assets/196ff54e-d36e-4831-b6b4-707e4a0e427d" />
+
+[Ver artefacto en uxpressia](https://uxpressia.com/w/v8FzI/i/Fy0pk?tagId=EaWxj)
 
 ## **3.3. Product Backlog**
 
