@@ -386,17 +386,15 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1038" height="963" alt="children path- Alerts and Notifications Bounded Context" src="https://github.com/user-attachments/assets/3cdd536e-b18d-4561-b71a-976cabbb0bad" />
 
 
-- Contexto Delimitado de Gestión de Incidencias:
+- Incident Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/incident-management-bounded-context.png" width="70%" alt="incident-management-bounded-context">
-</p>
+<img width="1048" height="954" alt="children path-Incident management Bounded Context" src="https://github.com/user-attachments/assets/4697bc10-df29-44a8-9d4e-aefd43d79e3a" />
 
-- Contexto Delimitado de Analítica y Reportes:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/analytics-reports-bounded-context.png" width="70%" alt="analytics-reports-bounded-context">
-</p>
+-Analytics and Reports Bounded Context
+
+<img width="1065" height="938" alt="children path- analytics and reports bounded context" src="https://github.com/user-attachments/assets/e1b4bd07-ae0b-4e91-b8e4-b7c2b2939487" />
+
 
 ### **4.6.2. Software Architecture Context Diagram**
 
