@@ -123,16 +123,16 @@
   <!-- ROW 2.6 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.8
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      18/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+       Agregando el landing page mock-up
     </td>
   </tr>
   <!-- ROW 3.0 -->
