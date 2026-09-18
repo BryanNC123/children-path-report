@@ -154,7 +154,16 @@ El wireframe de nuestra Landing Page se enfoca en una estructura de "Confianza P
 
 El Mockup de alta fidelidad representa la interfaz final de **Children Path**, integrando todos los elementos de la identidad visual y la arquitectura de información definida previamente. Este diseño busca equilibrar la funcionalidad técnica con una experiencia de usuario (UX) intuitiva y reconfortante para los padres.
 
-![Children Path Landing Page Mockup](../assets/chapter-4/Mockup-Landing-Page.png)
+<img width="1291" height="6231" alt="children path - landing page mock-up" src="https://github.com/user-attachments/assets/ba634ca7-714b-4d6b-b23a-3d2643741c3a" />
+
+<img width="1291" height="3399" alt="Children path -Nosotros mock-up" src="https://github.com/user-attachments/assets/6f9abbeb-64a8-4622-b679-c0de804d068b" />
+
+<img width="1291" height="2040" alt="Children path - contacto mock-up" src="https://github.com/user-attachments/assets/801a3a89-774e-487f-a796-c70fefad7ec2" />
+
+<img width="1291" height="900" alt="Childre path - iniciar sesion  mock-up" src="https://github.com/user-attachments/assets/e9a76eda-345d-470d-ad7a-1a4e506c17d6" />
+
+<img width="1291" height="2642" alt="children path - terminos y condiciones mock-up" src="https://github.com/user-attachments/assets/a7954bb4-f17f-4c0f-8353-c4290e8d8288" />
+
 
 #### Análisis del Diseño Final:
 
