@@ -342,11 +342,11 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1014" height="985" alt="children path - Fleet Management Bounded Context" src="https://github.com/user-attachments/assets/9f06d6ca-eb2b-487c-a23b-444b57a6c2de" />
 
 
-- Contexto Delimitado de Gestión de Conductores:
+-Driver Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/driver-management-bounded-context.png" width="70%" alt="driver-management-bounded-context">
-</p>
+<img width="1065" height="938" alt="Children path - Driver Management Bounded context" src="https://github.com/user-attachments/assets/2e6b8361-3c4e-4b1f-b5b7-daf7f03507be" />
+
+
 
 - Contexto Delimitado de Gestión de Rutas:
 
