@@ -359,11 +359,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 
 
-- Contexto Delimitado de Gestión de Asignaciones:
+-Assignment Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/assignment-management-bounded-context.png" width="70%" alt="assignment-management-bounded-context">
-</p>
+<img width="1089" height="917" alt="Children Path - assignment manegement bounded context" src="https://github.com/user-attachments/assets/7796dab3-4c50-440a-a2ac-62f387e49ea4" />
+
 
 - Contexto Delimitado de Rastreo en Tiempo Real:
 
