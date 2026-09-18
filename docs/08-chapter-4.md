@@ -148,7 +148,123 @@ El wireframe de nuestra Landing Page se enfoca en una estructura de "Confianza P
 * **Hero Section:** Diseñada con un titular de alto impacto a la izquierda y un espacio dedicado para la identidad visual de **Children Path** (el escudo) a la derecha.
 * **Sección de Métricas:** Ubicada estratégicamente debajo del hero para validar la fiabilidad del sistema con datos reales (segmentos, flujos y experiencia de confianza).
 
-![Children Path Wireframe](../assets/chapter-4/ChildrenPath_Wireframe.png)
+Desktop Landing Page:
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/Landing_Wireframe1.png" style="max-width:100%; max-height:950px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/Landing_Wireframe3.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/Landing_Wireframe4.png" style="max-width:100%; max-height:300px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/Landing_Wireframe5.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+**Elementos de Diseño**
+- Lógica de Tarjetas (Cards UI): Se emplean contenedores de bordes redondeados para agrupar información en bloques digeribles (métricas, testimonios, planes, Misión/Visión y el contenedor central en Términos y Condiciones).
+- Botones Píldora y Jerarquía Visual: Los botones principales ("Ingresar", "Solicitar demo") adoptan la forma de píldora (border-radius: 50px), marcando contraste de importancia frente a botones secundarios con bordes ("Ver planes", "Contactar ventas").
+- Micro-componentes y Placeholders: Uso de componentes estandarizados como etiquetas/badges para filtros rápidos, acordeones (+ / - / chevrons), inputs con ícono de visibilidad de contraseña (ojo) y tarjetas de precarga (image placeholders con montaña/sol).
+- Tipografía Escalada: Marcado contraste de pesos y tamaños tipográficos; títulos H1/H2 en negrita de gran formato para captar atención y texto base (body) ligero para facilitar la lectura.
+
+**Heurísticas de Nielsen**
+- Visibilidad del estado del sistema (H1): El widget de "Recorrido activo" en la página principal muestra el estado en vivo (ubicación, tiempo estimado y alertas), mientras que el login indica claramente el perfil seleccionado (Padre, Conductor, Administrador).
+- Relación entre el sistema y el mundo real (H2): Vocabulario empático y cotidiano ("Sigue a tu hijo", "Tranquilidad", "Rutas seguras"), evitando modismos informáticos o jerga técnica.
+- Consistencia y estándares (H4): La cabecera (Header) y el pie de página (Footer) se mantienen idénticos en las 5 vistas, conservando la ubicación del logo, el menú y el botón de acceso.
+- Prevención de errores (H5): En el formulario de Iniciar sesión, la opción de mostrar/ocultar contraseña permite verificar datos antes de enviar. En el formulario de demo, se incluyen listas desplegables para guiar la selección del rol.
+- Reconocimiento antes que recuerdo (H6): Las opciones del menú superior permanecen siempre visibles, permitiendo cambiar de sección sin memorizar la ruta previa.
+
+**Arquitectura de la Información**
+- Estructura Jerárquica Progresiva: La Landing Page principal ordena el contenido de forma lógica: Propuesta de valor/Hero $\rightarrow$ Validación social (Métricas) $\rightarrow$ Beneficios $\rightarrow$ Funcionamiento $\rightarrow$ Precios $\rightarrow$ Testimonios $\rightarrow$ FAQ $\rightarrow$ Contacto.
+- Segmentación por Audiencia/Rol: El contenido se organiza explícitamente en tres columnas o pestañas (Familias/Padres, Conductores, Colegios/Empresas) en las secciones de beneficios, planes y credenciales de acceso.
+- Escatabilidad de Texto Denso: En la pantalla de Terms and conditions, el texto extenso se estructura mediante una lista numerada, títulos en negrita y viñetas para evitar muros de texto unificados.
+- Navegación Global Consistente: La presencia uniforme del menú superior y pie de página garantiza accesibilidad directa a cualquier sección clave desde cualquier pantalla.
+
+**Diseño Inclusivo**
+- Objetivos Táctiles Amplios (Touch Targets): Los botones tipo píldora, inputs de texto y selectores tienen alturas superiores a $48\text{px}$, facilitando la interacción en pantallas táctiles o para usuarios con menor precisión motriz.
+- Alternativas de Contacto Flexibles: En la pantalla de contacto se ofrecen múltiples canales para adaptarse a distintas capacidades o preferencias comunicativas (formulario escrito, llamada telefónica y chat directo vía WhatsApp).
+- Estructuración para Lectores de Pantalla: La clara separación en bloques (encabezados, listas con checkmarks y tarjetas) facilita la lectura con tecnologías de asistencia visual.
+- Sencillez de Comprensión: Uso de íconos de cotejo (✓) acompañando a cada beneficio y viñetas cortas (chunking) para reducir la carga cognitiva al procesar la información.
+
+
+Mobile Web Wireframes
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe1.png" style="max-width:100%; max-height:10000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe2.png" style="max-width:100%; max-height:600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe3.png" style="max-width:100%; max-height:3000px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe4.png" style="max-width:100%; max-height:2000px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+<center>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe5.png" style="max-width:100%; max-height:1400px; object-fit:contain;" /></td>
+      <td><img src="../assets/chapter-4/W_Landing_Wireframe6.png" style="max-width:100%; max-height:3600px; object-fit:contain;" /></td>
+    </tr>
+  </table>
+</div>
+</center>
+
+**Elementos de Diseño (Mobile UI)**
+- Layout de Columna Única (Single-Column Stacking): Rediseño adaptativo donde las cuadrículas multicolumna de escritorio (métricas, testimonios, planes de suscripción) se reordenan en un flujo vertical continuo ($1 \times N$), facilitando la navegación con una sola mano.
+- Navegación Off-Canvas (Menú Hamburguesa): Sustitución de la barra de menú horizontal por un ícono de tres líneas en la cabecera, el cual despliega un menú lateral translúcido con los accesos principales y un botón de cierre explícito (W_Landing_Wireframe2.png).
+- Componentes Táctiles (Mobile Cards & Chips): Tarjetas de esquinas redondeadas ajustadas al ancho de pantalla y etiquetas (chips/badges) apiladas para filtrado directo de públicos (Familias, Conductores, Colegios).
+- Campos e Inputs Verticales: Formulario de contacto y pantalla de Inicia sesión con campos de entrada apilados y botones principales tipo píldora (border-radius: 50px) adaptados al ancho completo.
+
+**Heurísticas de Nielsen**
+- Visibilidad del estado del sistema (H1): La tarjeta de "Recorrido activo" destaca información en tiempo real (ubicación, hora y velocidad), mientras que el menú off-canvas incluye una capa oscura (overlay) que indica claramente que el usuario está en el modo de navegación.
+- Relación entre el sistema y el mundo real (H2): Empleo de iconografía estándar móvil (menú hamburguesa, 'X' para cerrar modal/desplegable, ícono de ojo para alternar visibilidad de contraseña y flechas descendentes para acordeones).
+- Control y libertad del usuario (H3): Incorporación de un botón de cierre "X" grande en la parte superior del menú desplegable para salir del overlay sin forzar acciones accidentales.
+- Consistencia y estándares (H4): Mantenimiento estricto del Sticky Header (logo a la izquierda, menú a la derecha) y Footer institucional en las 6 vistas móviles
+- Reconocimiento antes que recuerdo (H6): Pestañas de perfil seleccionables (Padre, Conductor, Administrador) en la pantalla de Login para evitar que el usuario deba recordar rutas de acceso separadas.
+
+**Arquitectura de la Información**
+- Jerarquización y Contención (Chunking): Desglose del contenido extenso en bloques compactos; el uso de acordeones desplegables en las preguntas frecuentes (FAQ) evita el desplazamiento (scroll) infinito abrumador.
+- Secuencia de Conversión Lineal: La Landing Page móvil guía la lectura de arriba hacia abajo: Propuesta de valor $\rightarrow$ Estado en vivo $\rightarrow$ Métricas $\rightarrow$ Beneficios $\rightarrow$ Planes $\rightarrow$ Testimonios $\rightarrow$ Formulario.
+- Estructuración de Contenido Denso: En la pantalla de Terms and conditions (W_Landing_Wireframe6.png), los párrafos largos se dividen mediante numerales en negrita y listas con viñetas para acelerar la lectura escaneable en pantallas pequeñas.
+
+**Diseño Inclusivo y Accesibilidad Mobile**
+- Zona del Pulgar (Thumb Zone & Touch Targets): Todos los botones, campos de texto y elementos interactivos tienen una altura táctil adecuada ($\ge 48\text{px}$), facilitando el toque sin presionar elementos adyacentes por error.
+- Carga Cognitiva Reducida: Ocultamiento estratégico de contenido secundario dentro del menú hamburguesa y acordeones para no saturar la memoria de trabajo del usuario en dispositivos móviles.
+- Alternativas Táctiles Directas: En la sección de contacto móvil se integran enlaces de acción rápida a teléfono y WhatsApp para iniciar comunicación en un solo toque.
 
 ### 4.3.2. Landing Page Mockup
 
@@ -319,95 +435,82 @@ Hemos priorizado los siguientes tres flujos críticos:
 
 ### **4.6.1. Design-Level EventStorming**
 
-- Contexto Delimitado de Gestión de Identidad y Acceso:
+-Identity and Access Management Bounded Context
+<img width="955" height="1046" alt="Children path- IAM bounded context" src="https://github.com/user-attachments/assets/b12107bd-0834-4507-9eaf-d3c55d33bea6" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/identity-access-bounded-context.png" width="70%" alt="identity-access-bounded-context">
-</p>
+-User profile bounded context
 
-- Contexto Delimitado de Perfiles de Usuario:
+<img width="1201" height="832" alt="Children path - user profiles bounded context" src="https://github.com/user-attachments/assets/51f2dfdc-7dab-46c0-8472-16f7f0b39404" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/user-profiles-bounded-context.png" width="70%" alt="user-profiles-bounded-context">
-</p>
 
-- Contexto Delimitado de Suscripciones y Pagos:
+-Subscription and Payments Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/subscription-payments-bounded-context.png" width="70%" alt="subscription-payments-bounded-context">
-</p>
+<img width="1030" height="970" alt="children path - subscription and payments bounded context" src="https://github.com/user-attachments/assets/6281fd27-7b6d-4497-90fe-b0029797cae3" />
 
-- Contexto Delimitado del Dashboard:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/dashboard-bounded-context.png" width="70%" alt="dashboard-bounded-context">
-</p>
+-Dashboard Bounded Context
 
-- Contexto Delimitado de Gestión de Flota:
+<img width="1056" height="946" alt="Children path dashboard bounded context" src="https://github.com/user-attachments/assets/3f700af0-3c97-4569-983f-c168eef3974c" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/fleet-management-bounded-context.png" width="70%" alt="fleet-management-bounded-context">
-</p>
 
-- Contexto Delimitado de Gestión de Conductores:
+-Fleet Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/driver-management-bounded-context.png" width="70%" alt="driver-management-bounded-context">
-</p>
+<img width="1014" height="985" alt="children path - Fleet Management Bounded Context" src="https://github.com/user-attachments/assets/9f06d6ca-eb2b-487c-a23b-444b57a6c2de" />
 
-- Contexto Delimitado de Gestión de Rutas:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/route-management-bounded-context.png" width="70%" alt="route-management-bounded-context">
-</p>
+-Driver Management Bounded Context
 
-- Contexto Delimitado de Gestión de Estudiantes:
+<img width="1065" height="938" alt="Children path - Driver Management Bounded context" src="https://github.com/user-attachments/assets/2e6b8361-3c4e-4b1f-b5b7-daf7f03507be" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/student-management-bounded-context.png" width="70%" alt="student-management-bounded-context">
-</p>
 
-- Contexto Delimitado de Gestión de Asignaciones:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/assignment-management-bounded-context.png" width="70%" alt="assignment-management-bounded-context">
-</p>
+-Route Management Bounded Context
 
-- Contexto Delimitado de Rastreo en Tiempo Real:
+<img width="1049" height="953" alt="Children Path- Route Management Bounded Contexxt" src="https://github.com/user-attachments/assets/1ca2aa3a-dded-4596-a1d2-11180446b9f5" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/real-time-tracking-bounded-context.png" width="70%" alt="real-time-tracking-bounded-context">
-</p>
 
-- Contexto Delimitado de Gestión de Viajes:
+-Student Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/trip-management-bounded-context.png" width="70%" alt="trip-management-bounded-context">
-</p>
+<img width="1089" height="917" alt="Children path - student management bounded context" src="https://github.com/user-attachments/assets/93d20e06-210a-4f15-beeb-05640407e188" />
 
-- Contexto Delimitado de Control de Asistencia:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/attendance-tracking-bounded-context.png" width="70%" alt="attendance-tracking-bounded-context">
-</p>
 
-- Contexto Delimitado de Alertas y Notificaciones:
+-Assignment Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/alerts-notifications-bounded-context.png" width="70%" alt="alerts-notifications-bounded-context">
-</p>
+<img width="1089" height="917" alt="Children Path - assignment manegement bounded context" src="https://github.com/user-attachments/assets/7796dab3-4c50-440a-a2ac-62f387e49ea4" />
 
-- Contexto Delimitado de Gestión de Incidencias:
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/incident-management-bounded-context.png" width="70%" alt="incident-management-bounded-context">
-</p>
+-Real-Time Tracking Bounded Contex
 
-- Contexto Delimitado de Analítica y Reportes:
+<img width="1053" height="949" alt="children path - real-time tracking bounded context" src="https://github.com/user-attachments/assets/44447335-85d1-4887-be47-9f18a5578e1b" />
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/analytics-reports-bounded-context.png" width="70%" alt="analytics-reports-bounded-context">
-</p>
+
+-Trip Management Bounded Context
+
+<img width="1037" height="964" alt="children path- trip management bounded context" src="https://github.com/user-attachments/assets/1619a338-ce52-4aa1-9645-98756c6e9971" />
+
+
+-Attendance Tracking Bounded Context
+
+<img width="1045" height="956" alt="Children path - attendance tracking bounded context" src="https://github.com/user-attachments/assets/cf54b438-aeb4-4395-8c93-ab0c16a0b5dc" />
+
+
+
+
+-Alerts and Notifications Bounded Context
+
+<img width="1038" height="963" alt="children path- Alerts and Notifications Bounded Context" src="https://github.com/user-attachments/assets/3cdd536e-b18d-4561-b71a-976cabbb0bad" />
+
+
+- Incident Management Bounded Context
+
+<img width="1048" height="954" alt="children path-Incident management Bounded Context" src="https://github.com/user-attachments/assets/4697bc10-df29-44a8-9d4e-aefd43d79e3a" />
+
+
+-Analytics and Reports Bounded Context
+
+<img width="1065" height="938" alt="children path- analytics and reports bounded context" src="https://github.com/user-attachments/assets/e1b4bd07-ae0b-4e91-b8e4-b7c2b2939487" />
+
 
 ### **4.6.2. Software Architecture Context Diagram**
 

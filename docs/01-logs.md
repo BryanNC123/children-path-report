@@ -147,37 +147,37 @@
       Pareja Caceres, Diana
     </td>
     <td style="text-align: justify;">
-      Modificar el impact mapping
+        Agregando el capitulo 4 - 4.6 Bounded contexts correspondientes 
     </td>
   </tr>
   <!-- ROW 3.1 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.10
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      13/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Soto Palacios, Brandon
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Agregado de version preliminar de capitulos 1 y 2, entrevista segmento
     </td>
   </tr>
   <!-- ROW 3.2 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.11
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      18/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Soto Palacios, Brandon
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Documentación y agregado de Landing Page y Mobile Landing Page wireframes
     </td>
   </tr>
   <!-- ROW 3.3 -->
