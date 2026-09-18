@@ -322,11 +322,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 -Identity and Access Management Bounded Context
 <img width="955" height="1046" alt="Children path- IAM bounded context" src="https://github.com/user-attachments/assets/b12107bd-0834-4507-9eaf-d3c55d33bea6" />
 
-- Contexto Delimitado de Perfiles de Usuario:
+-User profile bounded context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/user-profiles-bounded-context.png" width="70%" alt="user-profiles-bounded-context">
-</p>
+<img width="1201" height="832" alt="Children path - user profiles bounded context" src="https://github.com/user-attachments/assets/51f2dfdc-7dab-46c0-8472-16f7f0b39404" />
+
 
 - Contexto Delimitado de Suscripciones y Pagos:
 
