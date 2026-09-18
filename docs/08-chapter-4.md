@@ -369,11 +369,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1053" height="949" alt="children path - real-time tracking bounded context" src="https://github.com/user-attachments/assets/44447335-85d1-4887-be47-9f18a5578e1b" />
 
 
-- Contexto Delimitado de Gestión de Viajes:
+-Trip Management Bounded Context
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/trip-management-bounded-context.png" width="70%" alt="trip-management-bounded-context">
-</p>
+<img width="1037" height="964" alt="children path- trip management bounded context" src="https://github.com/user-attachments/assets/1619a338-ce52-4aa1-9645-98756c6e9971" />
+
 
 - Contexto Delimitado de Control de Asistencia:
 
