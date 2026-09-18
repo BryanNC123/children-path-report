@@ -364,11 +364,10 @@ Hemos priorizado los siguientes tres flujos críticos:
 <img width="1089" height="917" alt="Children Path - assignment manegement bounded context" src="https://github.com/user-attachments/assets/7796dab3-4c50-440a-a2ac-62f387e49ea4" />
 
 
-- Contexto Delimitado de Rastreo en Tiempo Real:
+-Real-Time Tracking Bounded Contex
 
-<p align="center">
-  <img src="../assets/chapter-4/software-architecture/event-storming/real-time-tracking-bounded-context.png" width="70%" alt="real-time-tracking-bounded-context">
-</p>
+<img width="1053" height="949" alt="children path - real-time tracking bounded context" src="https://github.com/user-attachments/assets/44447335-85d1-4887-be47-9f18a5578e1b" />
+
 
 - Contexto Delimitado de Gestión de Viajes:
 
